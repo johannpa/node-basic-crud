@@ -26,6 +26,11 @@ Take the msi version
 
 ![image](https://github.com/user-attachments/assets/4d9852ca-c0bc-4c61-a80b-d384365a54fb)
 
+Once you have install mongoDB Shell you can open a terminal and type mongosh in the terminal to connect to the mongoDB
+
 We can try MongoDB compass to easily explore and manipulate your database with Compass, the GUI for MongoDB :
 
 https://www.mongodb.com/try/download/compass
+
+Now you can use the DB and to connect use MongoDB Compass and click on Add new connection and then in a new window click on connect.
+Now you can see the aviable(s) DB
